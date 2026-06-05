@@ -52,6 +52,3 @@ The tool will output:
 
 - Python 3.x
 
-## License
-
-No license specified
